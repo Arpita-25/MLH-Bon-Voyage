@@ -10,7 +10,7 @@
 ![Capture4](https://user-images.githubusercontent.com/64279181/126060354-ba388f81-104e-474a-b60f-ab7f30c9aeec.PNG)
 ![Capture6](https://user-images.githubusercontent.com/64279181/126060356-f995c876-f634-4e99-b855-ae71bb58c70d.PNG)
 
-Open the index.html file to see the web page.
+Open the ```index.html``` file to see the web page.
 
 Happy Hacking!
 
